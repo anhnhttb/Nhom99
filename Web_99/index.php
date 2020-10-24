@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>T E C H - Store</title>
+<title>99 - CAKE COFFEE</title>
 <a href= "http://localhost/Web_99/index.html"></a>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,13 +31,14 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- //end-smooth-scrolling --> 
 <!-- Khúc này TA thêm -->
-<script>
+<!-- <script>
 	function increase(){
 		var tmp = document.getElementById('soluongmonhang').innerHTML;
     	document.getElementById('soluongmonhang').innerHTML = parseInt(tmp) + 1;
 		return false;
 	}
-</script>
+</script> 
+-->
 
 
 </head> 
@@ -144,7 +145,7 @@
 			<div class="w3_footer_grids">
 				<div class="col-md-3 w3_footer_grid">
 					<h3>Liên hệ </h3>
-					<p>您可以 T E C H - Store</p>
+					<p> 99 - CAKE COFFEE</p>
 					<ul class="address">
 						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>280 An Dương Vương <span>Đại học Sư Phạm TP.HCM</span></li>
 						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">taotao@shop.com</a></li>
@@ -164,10 +165,10 @@
 				<div class="col-md-3 w3_footer_grid">
 					<h3>Sản phẩm</h3>
 					<ul class="info"> 
-						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=2&name=D%C3%A9p">Dép </a></li>
-						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=1&name=Gi%C3%A0y">Giày</a></li>
-						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=3&name=Sandal">Sandal</a></li>
-						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=5&name=Gu%E1%BB%91c">Guốc</a></li>
+						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=2&name=D%C3%A9p">DIET </a></li>
+						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=1&name=Gi%C3%A0y">BIRTHDAY</a></li>
+						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=3&name=Sandal">CUP CAKE</a></li>
+						<li><a href="https://localhost/Web_5AE/index.php?mod=products&act=resultcategory&id=5&name=Gu%E1%BB%91c">DRINK</a></li>
 						<li><a href="products4.html">Khác</a></li>
 					</ul>
 				</div>
@@ -191,7 +192,7 @@
 				</div>
 			</div>
 			<div class="container">
-				<p>Copyright &copy; ©2019 T E C H - Store. All rights reserved | Design by</p>
+				<p>Copyright &copy; ©2020 99 - CAKE COFFEE. All rights reserved | Design by</p>
 			</div>
 		</div>
 	</div>
